@@ -4,27 +4,27 @@
         
 ## Introduction
 
-In this project the Medical Appointment No-show data set is explored, albeit on a brief note. The dataset contains information on patients' attitude toward medical appointment schedules. Even more interesting is that the dataset contains information on Brazilian nationals who are enrolled on the [Bosla Familia] (https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia). A program which financially supports families with a focus on mitigating the adverse effects of poverty. I shall be investigating the significance of this scholarship on patients' response to medical appointment schedules. The dataset spans 2015-2016.
+In this project the Medical Appointment No-show data set is explored, albeit on a brief note. The dataset contains information on patients' attitude toward medical appointment schedules. Even more interesting is that the dataset contains information on Brazilian nationals who are enrolled on the [Bosla Familia]("https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia"). A program which financially supports families with a focus on mitigating the adverse effects of poverty. I shall be investigating the significance of this scholarship on patients' response to medical appointment schedules. The dataset spans 2015-2016.
 
 ---
 
-### Structure of the data
+### Structure of the dataset
     
 The Medical Appointment No-show dataset contains 110527 rows and 14 columns. Columns in the dataset include;
-PatientId: Patient Identication
-AppointmentID: Identification of each appointment
-Gender: Whether patient is Male or Female
-ScheduledDay: Day of week appointment is scheduled
-AppointmentDay: Day of appointment
-Age: Patient age 
-Neighbourhood: Where appointment takes place
-Scholarship: True or False [Bosla Familia] (https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)
-Hipertension: Whether patient has hypertension (True or False)
-Diabetes: Whether patient has diabetes (True or False
-Alcoholism: Whether patient is alcoholic (True or False)
-Handcap: Whether patient is handdicaped (True or False)
-SMS_received: Message sent to patient 
-No-show: whether patient showed up for appointment schedule (True or False)
+1. PatientId: Patient Identication
+2. AppointmentID: Identification of each appointment
+3. Gender: Whether patient is Male or Female
+4. ScheduledDay: Day of week appointment is scheduled
+5. AppointmentDay: Day of appointment
+6. Age: Patient age 
+7. Neighbourhood: Where appointment takes place
+8. Scholarship: True or False [Bosla Familia]("https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia")
+9. Hipertension: Whether patient has hypertension (True or False)
+10. Diabetes: Whether patient has diabetes (True or False
+11. Alcoholism: Whether patient is alcoholic (True or False)
+12. Handcap: Whether patient is handdicaped (True or False)
+13. SMS_received: Message sent to patient 
+14. No-show: whether patient showed up for appointment schedule (True or False)
 
 ---
 
